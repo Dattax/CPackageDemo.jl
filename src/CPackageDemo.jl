@@ -1,5 +1,5 @@
 module CPackageDemo
 
-# Write your package code here.
+greet() = println("Hello CPackageDemo!")
 
 end
