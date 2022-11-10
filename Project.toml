@@ -1,0 +1,13 @@
+name = "CPackageDemo"
+uuid = "959c5277-99fe-47b9-b7a2-cd5826995d38"
+authors = ["Deep-Datta"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
